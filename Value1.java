@@ -9,6 +9,6 @@ public class Value1 {
         
         int b = 15;
         if (b %2 != 0)
-        System.out.println("This number is not an even number");
+        System.out.println("This number is not an even number. Try again.");
     }
 }
